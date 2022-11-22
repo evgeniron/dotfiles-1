@@ -1,3 +1,8 @@
+[user]
+	name = Evgeni R. Shtrakh
+	email = 5058357+evgeniron@user.noreply.github.com
+[github]
+	user = evgeniron
 [alias]
 
 	# View abbreviated SHA, description, and history graph of the latest 20 commits.
